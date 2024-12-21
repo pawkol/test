@@ -1,6 +1,6 @@
 
 
-print ("hello/n")
+print ("hello ",end="") 
 print ("NY")
 
 for city in ["warsaw","berlin","paris"]:
